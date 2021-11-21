@@ -5,6 +5,7 @@ na text ve zprávě.
 
 Kermit funguje na neuronových sítích. Model byl vytrénován na zprávách ze třídního discord serveru (30000 zpráv).
 
+Model ke stažení :https://www.mediafire.com/file/sayrm3gzfan8l1k/test_model6.h5/file
 
 ![img_1.png](img_1.png)
 
