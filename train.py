@@ -13,7 +13,7 @@ padding_type='post'
 oov_tok = "<OOV>"
 
 #dataframe
-df = pd.read_csv("training data/train_8.A.csv")
+df = pd.read_csv("train_8.A.csv")
 
 
 contents = df["msg"][0:30000].astype(str)
